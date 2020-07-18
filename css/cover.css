@@ -1,0 +1,12 @@
+nav .navbar-nav li a{
+    color: #D9B559 !important;
+    font-size: medium;
+}
+
+body{
+    font-family: Montserrat;
+}
+
+nav {
+    font-family: MontserratBold;
+}

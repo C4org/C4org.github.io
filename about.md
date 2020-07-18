@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: genericPage
 title: About
 permalink: /about/
 ---

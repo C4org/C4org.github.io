@@ -25,7 +25,9 @@ github_username:  poolesvilleC4
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+permalink: pretty
+
 plugins:
   - jekyll-feed
 
