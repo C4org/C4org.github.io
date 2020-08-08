@@ -82,3 +82,24 @@ nav {
     padding-left: 0;
     padding-right: 0;
 }
+
+hr {
+    border-top: 2px solid #12447D;
+}
+
+.fa {
+    font-size: 20px;
+    width: 20px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: #D9B559;
+}
+
+
+/* Add a hover effect if you want */
+
+.fa:hover {
+    opacity: 0.7;
+}
