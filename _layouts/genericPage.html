@@ -1,43 +1,42 @@
 <html lang="en">
-        
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="/img/favicon.ico">
-    
-        <title>{{ page.title }}</title>
-        <link href="/css/cover.css" rel="stylesheet" />
-        <!-- Custom styles for this template -->
-        {% include topImports.html %}
-    </head>
-    
-    <body>
-        <header>
-            {% include navbar.html %}
-        </header>
-        <div class ="container">
-            <h5>
-                {{ page.title }}
-            </h5>
-        </div>
-        <div class="container">
-            <br>
-            <div class="row">
-                <div class="col">
-                    {{ content }}
-                </div>
-            </div>
-        </div>
-        <br>
-    
-        <footer class="footer">
-            <div class="container">
-                <span class="text-muted">{% include footerContents.html %}</span>
-            </div>
-        </footer>
 
-        {% include bottomImports.html %}
-    
-    </body>
-        
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/img/favicon.ico">
+
+    <title>{{ page.title }}</title>
+    <!-- Custom styles for this template -->
+    {% include topImports.html %}
+</head>
+
+<body>
+    <header>
+        {% include navbar.html %}
+    </header>
+    <div class="container">
+        <h5>
+            {{ page.title }}
+        </h5>
+    </div>
+    <div class="container pt-2" id="text_container">
+        <br>
+        <div class="row">
+            <div class="col">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+    <br>
+
+    <footer class="footer">
+        <div class="container">
+            <span class="text-muted">{% include footerContents.html %}</span>
+        </div>
+    </footer>
+
+    {% include bottomImports.html %}
+
+</body>
+
 </html>
