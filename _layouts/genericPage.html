@@ -15,7 +15,7 @@
         {% include navbar.html %}
     </header>
     <div class="container">
-        <div class="row">
+        <div class="row simple_row">
             <div class="col">
                 <hr>
             </div>
@@ -32,7 +32,7 @@
     </div>
     <div class="container pt-2" id="text_container">
         <br>
-        <div class="row">
+        <div class="row simple_row">
             <div class="col">
                 {{ content }}
             </div>
@@ -41,7 +41,7 @@
     <br>
 
     <footer class="footer">
-        <div class="container" style="text-align: center;">
+        <div class="container pt-2" style="text-align: center;">
             <span class="text-muted">{% include footerContents.html %}</span>
         </div>
     </footer>
