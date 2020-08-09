@@ -10,7 +10,7 @@ permalink: /about/leadership
             <div class="d-flex flex-column">
                 <p>Roma Dhingra - President and Founder </p>
                 <p>
-                    I was born with multiple hemangiomas , one surgically removed when I was three years old. As I grew up, I realized how the treatment had improved my lifestyle and self-confidence, and I became interested in the field of tumors and cancer. After volunteering a summer to spend time with young cancer patients undergoing treatment, I decided to start a club dedicated to boosting their morale.
+                    When I was three years old, I had a hemangioma on my scalp surgically removed. As I grew up, I realized how the treatment had improved my lifestyle and self-confidence, and I became interested in the field of tumors and cancer. After volunteering a summer to spend time with young cancer patients undergoing treatment, I decided to start a club dedicated to boosting their morale.
                 </p>
             </div>
         </div>

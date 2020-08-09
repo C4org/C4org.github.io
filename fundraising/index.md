@@ -14,8 +14,6 @@ The main fundraising method of the C4 club resolves around selling goods at the 
 
 For future fundraisers, we have plans to continue implementing our old methods of fundraising, but at the same time, we want to add several new methods such as a walkathon to raise funds. As a club we are also planning a Spring Fair to act as a huge fundraiser; the plan was to host this fair during April of 2020. However, due to COVID-19, it has postponed until it is safe to have the event.
 
-
-
 ## Spring Fair
 
 The Combating Childhood Cancer Club decided to have a Spring Fair on April 18, 2020 in order to raise money for childhood cancer research at the National Foundation for Cancer Research. The fair was to be at Whalen Commons, a public field in the town of Poolesville. This fair would have been open to the public, with a large number of our attendees to be of Poolesville. Due to the COVID-19, we first postponed the fair to October 10th, 2020, and then decided to postpone the fair indefinitely. However, before postponing, we had planned the fair to a great extent. Our plan for the fair consisted of:  
