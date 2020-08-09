@@ -12,10 +12,6 @@ As a group, the C4 club is dedicated to hosting fundraisers in the local communi
 
 The main fundraising method of the C4 club resolves around selling goods at the school. We have had holiday-themed sales in which we sold items associated with Valentines, Christmas, etc. We have also hosted mini competitions such as a coin drive between grade levels. Although less common, we have also been able to accrue funds by accepting straight donations to the club. Outside of monetary funds, as a club we have also worked to collect and design cards and coloring books to send to child cancer patients at various hospitals. To the same patients, we have also donated brand new toys. Check out the fundraisers we've done below!  
 
-<p align="center">
-  <img width="auto" height="500" src="/img/Fundraiser%20Table.png">
-</p>
-
 For future fundraisers, we have plans to continue implementing our old methods of fundraising, but at the same time, we want to add several new methods such as a walkathon to raise funds. As a club we are also planning a Spring Fair to act as a huge fundraiser; the plan was to host this fair during April of 2020. However, due to COVID-19, it has postponed until it is safe to have the event.
 
 
