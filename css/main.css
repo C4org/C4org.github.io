@@ -1,0 +1,141 @@
+.container {
+    padding-top: 8vh;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOutAnimation {
+    0% {
+        opacity: 1;
+    }
+    99% {
+        opacity: 0;
+        visibility: hidden;
+        overflow: hidden;
+        height: 100vh;
+    }
+    100% {
+        height: 0;
+        opacity: 0;
+        visibility: hidden;
+        overflow: hidden;
+    }
+}
+
+nav .navbar-nav li a {
+    color: #D9B559 !important;
+    font-size: medium;
+}
+
+body {
+    font-family: MontserratRegular;
+    padding-top: 8vh;
+}
+
+h5 {
+    font-size: 30px;
+}
+
+p {
+    font-family: Zilla Slab;
+    font-size: 24px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+#text_container {
+    font-family: Zilla Slab;
+}
+
+nav {
+    font-family: MontserratBold;
+    height: 8vh;
+}
+
+@font-face {
+    font-family: Zilla Slab;
+    font-weight: bold;
+    src: url("/img/ZillaSlab-Bold.ttf");
+}
+
+@font-face {
+    font-family: Zilla Slab;
+    src: url("/img/ZillaSlab-Regular.ttf");
+}
+
+.row {
+    height: 96vh;
+    width: inherit;
+    margin: 0;
+}
+
+.simple_row {
+    height: auto !important;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+hr {
+    border-top: 2px solid #12447D;
+}
+
+.fa {
+    font-size: 20px;
+    width: 20px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: #D9B559;
+}
+
+
+/* Add a hover effect if you want */
+
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+    color: #12447D;
+}
+
+.navbar-brand {
+    /* Stops hamburger overflow for small width screens */
+    margin-right: 0;
+}
+
+.navbar {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-collapse {
+    background-color: #12447D;
+    width: 100%;
+}
+
+.navbar-logo {
+    height: 30px;
+    @media (max-width: 319px) {
+        height: 25px;
+    }
+}
+
+.dropdownmenu.dropdown-toggle {
+    background-color: white !important;
+}
+
+.navbar-collapse.collapse.show {
+    border-radius: 10px;
+}

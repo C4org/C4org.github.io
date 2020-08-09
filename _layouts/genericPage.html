@@ -1,0 +1,53 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/img/favicon.ico">
+
+    <title>{{ page.title }}</title>
+    <!-- Custom styles for this template -->
+    {% include topImports.html %}
+</head>
+
+<body>
+    <header>
+        {% include navbar.html %}
+    </header>
+    <div class="container">
+        <div class="row simple_row">
+            <div class="col">
+                <hr>
+            </div>
+            <div class="col-auto">
+                <h5>
+                    {{ page.title }}
+                </h5>
+            </div>
+            <div class="col">
+                <hr>
+            </div>
+        </div>
+
+    </div>
+    <div class="container pt-2" id="text_container">
+        <br>
+        <div class="row simple_row">
+            <div class="col">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+    <br>
+
+    <footer class="footer">
+        <div class="container pt-2" style="text-align: center;">
+            <span class="text-muted">{% include footerContents.html %}</span>
+        </div>
+    </footer>
+
+    {% include bottomImports.html %}
+
+</body>
+
+</html>
