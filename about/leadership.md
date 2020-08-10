@@ -66,7 +66,7 @@ permalink: /about/leadership
             <div class="d-flex flex-column">
                 <p>Alina Hiba - Treasurer</p>
                 <p>
-                    I joined 4 because cancer is such a scary and huge problem in the world with severe treatments, and no one should have to deal with it, let alone children. The least we can do is help in whatever way possible, whether it be donating money so families of children with cancer don’t have to worry about it or just bringing comfort to these strong children.
+                    I joined C4 because cancer is such a scary and huge problem in the world with severe treatments, and no one should have to deal with it, let alone children. The least we can do is help in whatever way possible, whether it be donating money so families of children with cancer don’t have to worry about it or just bringing comfort to these strong children.
                 </p>
             </div>
         </div>
