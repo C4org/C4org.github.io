@@ -37,7 +37,7 @@ permalink: /about/leadership
             <div class="d-flex flex-column">
                 <p>Eashan - Secretary</p>
                 <p>
-                    Cancer is a horrible disease that affects millions of people. It is really tough to go through, physically, mentally, and emotionally especially for children. It can affect anyone anytime and turn their lives upside down. The cost of cancer treatment also greatly burdens families. I joined C4 to help do my part in combatting childhood cancer.
+                    Cancer is a horrible disease that affects millions of people. It is really tough to go through, physically, mentally, and emotionally especially for children. It can affect anyone anytime and turn their lives upside down. The cost of cancer treatment also greatly burdens families. I joined C4 to help do my part in combating childhood cancer.
                 </p>
             </div>
         </div>
