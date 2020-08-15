@@ -19,4 +19,7 @@ Here are some of the categories:
 - Careers
 - Quotes/Short Stories
 
-If you're interested in helping out, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSex48RbjAL7RGviFtuLEvDcGsd9sXKwZQLIXnZ6Z2OjjQ5Bkw/viewform)
+If you're interested in helping out, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSex48RbjAL7RGviFtuLEvDcGsd9sXKwZQLIXnZ6Z2OjjQ5Bkw/viewform).
+<div class="form">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSex48RbjAL7RGviFtuLEvDcGsd9sXKwZQLIXnZ6Z2OjjQ5Bkw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>

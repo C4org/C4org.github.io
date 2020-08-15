@@ -14,34 +14,36 @@
     <header>
         {% include navbar.html %}
     </header>
-    <div class="container">
-        <div class="row simple_row">
-            <div class="col">
-                <hr>
+    <div class="wrapper">
+        <div class="container">
+            <div class="row simple_row">
+                <div class="col">
+                    <hr>
+                </div>
+                <div class="col-auto">
+                    <h5>
+                        {{ page.title }}
+                    </h5>
+                </div>
+                <div class="col">
+                    <hr>
+                </div>
             </div>
-            <div class="col-auto">
-                <h5>
-                    {{ page.title }}
-                </h5>
-            </div>
-            <div class="col">
-                <hr>
-            </div>
-        </div>
 
-    </div>
-    <div class="container pt-2" id="text_container">
-        <br>
-        <div class="row simple_row">
-            <div class="col">
-                {{ content }}
+        </div>
+        <div class="container pt-2" id="text_container" style="margin-bottom: 15px;">
+            <br>
+            <div class="row simple_row">
+                <div class="col">
+                    {{ content }}
+                </div>
             </div>
         </div>
     </div>
     <br>
 
     <footer class="footer">
-        <div class="container pt-2" style="text-align: center;">
+        <div class="container pt-2" style="text-align: center;  ">
             <span class="text-muted">{% include footerContents.html %}</span>
         </div>
     </footer>

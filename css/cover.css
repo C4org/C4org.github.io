@@ -20,3 +20,58 @@
     height: 100vh;
     padding-top: 0vh;
 }
+
+#section1card {
+    text-align: center;
+}
+
+#section2Leftcard {
+    font-size: calc(20px + 2vw + 2vh);
+    font-family: Zilla Slab;
+    padding-left: 4vh; 
+}
+
+#section2Right {
+    text-align: center;
+    border-left: 2px solid #6F6F6F; 
+}
+
+#section3card {
+    text-align: center;
+}
+
+
+#instagram-feed {
+    font-family: Zilla Slab;
+    font-size:calc(10px + .5vw + .5vh);
+    border-left: 2px solid #12447D; 
+}
+
+#section4card {
+    text-align: center;
+}
+
+
+.sectionheader{
+    font-family: MontserratBold;
+    font-size: calc(10px + 1vw + 1vh);
+    color:#D9B559; 
+}
+
+#calendar {
+    border-right: 2px solid #12447D;
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
+
+@media screen and (max-width: 767px) {
+    #section2Right{
+        border-left-width: 0px;
+    }
+    #calendar {
+        border-right-width: 0px;
+    }
+    #instagram-feed {
+        border-left-width: 0px;
+    }
+}

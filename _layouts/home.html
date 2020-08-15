@@ -28,7 +28,7 @@
 
             </div>
             <div class="row justify-content-center" id="section1">
-                <div class="col-md-12 align-self-center" style="text-align: center;">
+                <div class="col-md-12 align-self-center" id="section1card">
                     Combatting Childhood Cancer Club
                     <br> est. September 2018
                     </p>
@@ -36,11 +36,11 @@
             </div>
             <div class="row justify-content-around" id="section2">
                 <div class="col-lg-6 align-self-center" id="section2Left">
-                    <p style=" font-size: calc(20px + 2vw + 2vh);font-family: Zilla Slab;padding-left: 4vh; ">
+                    <p id="section2Leftcard">
                         Our mission is to support young cancer patients and boost their morale through their battle against cancer.
                     </p>
                 </div>
-                <div class="col-lg-6 align-self-center justify-content-center " id="section2Right" style="text-align: center;border-left: 2px solid #6F6F6F; " data-aos="slide-left" data-aos-offset="-100" data-aos-delay="0" data-aos-duration="800" data-aos-easing="ease-in-out"
+                <div class="col-lg-6 align-self-center justify-content-center " id="section2Right" data-aos="slide-left" data-aos-offset="-100" data-aos-delay="0" data-aos-duration="800" data-aos-easing="ease-in-out"
                     data-aos-mirror="true" data-aos-once="true" data-aos-anchor="#section2Left" data-aos-anchor-placement="top-center">
                     <img src="/img/logo.JPG " style="width: 40vmin;height: auto; " />
                     <div style="text-align: center; ">
@@ -50,21 +50,21 @@
                 </div>
             </div>
             <div class="row justify-content-around ">
-                <div class="col-lg-4 align-self-center " style="text-align: center; ">
-                    <p style="font-family: MontserratBold;font-size: calc(10px + 1vw + 1vh);color:#D9B559; ">
+                <div class="col-lg-4 align-self-center " id="section3card">
+                    <p class="sectionheader">
                         Instagram
                     </p>
                 </div>
-                <div class="col-lg-6 align-self-center justify-content-center " id="instagram-feed " style="font-family: Zilla Slab;font-size:calc(10px + .5vw + .5vh) ;border-left: 2px solid #12447D; ">
+                <div class="col-lg-6 align-self-center justify-content-center " id="instagram-feed">
 
                 </div>
             </div>
             <div class="row justify-content-around ">
-                <div class="col-lg-6 align-self-center justify-content-center" id="calendar" style="padding-left: 5vh;padding-right: 5vh;border-right: 2px solid #12447D;">
+                <div class="col-lg-6 align-self-center justify-content-center" id="calendar">
 
                 </div>
-                <div class="col-lg-6 align-self-center" style="text-align: center;">
-                    <p style="font-family: MontserratBold;font-size: calc(10px + 1vw + 1vh);color:#D9B559; ">
+                <div class="col-lg-6 align-self-center" id="section4card">
+                    <p class="sectionheader">
                         Calendar
                     </p>
                     <p>
@@ -75,7 +75,7 @@
             <div class="row justify-content-center ">
                 <div class="col-lg-6 align-self-center ">
                     <div class="my-5" style="text-align: center;">
-                        <p style="font-family: MontserratBold;font-size: calc(10px + 1vw + 1vh);color:#D9B559; ">
+                        <p class="sectionheader">
                             Gallery
                         </p>
                     </div>
@@ -123,7 +123,7 @@
             (function() {
                 new InstagramFeed({
                     'username': 'poolesvillec4',
-                    'container': document.getElementById("instagram-feed "),
+                    'container': document.getElementById("instagram-feed"),
                     'display_profile': true,
                     'display_biography': true,
                     'display_gallery': true,

@@ -17,5 +17,9 @@ Some organizations:
 
 ## Frontline Worker Google Form
 
-Our fronline workers do an amazing job protecting and helping us. We'd like to do our part to thank them for the work they do. Below is a Google Form open to anyone who would like to submit an encouraging note to frontline workers. Notes will be sent out every week by our officers to different organizations. You have the option to be anonymous and to have your note be sent out every week. Please take out two minutes to fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSckmMWFTtOIDt_a52FPPwxD0BObQAHtTZqh4XRTHkpUfWGoag/viewform)!  
+Our fronline workers do an amazing job protecting and helping us. We'd like to do our part to thank them for the work they do. Below is a Google Form open to anyone who would like to submit an encouraging note to frontline workers. Notes will be sent out every week by our officers to different organizations. You have the option to be anonymous and to have your note be sent out every week. Please take out two minutes to fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSckmMWFTtOIDt_a52FPPwxD0BObQAHtTZqh4XRTHkpUfWGoag/viewform)! 
+
+<div class="form">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckmMWFTtOIDt_a52FPPwxD0BObQAHtTZqh4XRTHkpUfWGoag/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
 
