@@ -153,6 +153,10 @@ a.dropdown-item:hover {
     color: #12447D !important;
 }
 
+a.nav-link:hover,a.nav-link:focus{
+    color: #858585 !important;
+}
+
 .footer {
     position: relative;
     bottom: 0px;

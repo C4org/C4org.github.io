@@ -2,7 +2,6 @@
 layout: genericPage
 title:  Informational Posts
 date:   2020-08-09 17:00:00 -0400
-categories: jekyll update
 ---
 
 Each week, we are planning to provide multiple-slide & single-slide posts to our followers and viewers. We are
