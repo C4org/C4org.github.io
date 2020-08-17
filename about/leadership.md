@@ -96,7 +96,7 @@ permalink: /about/leadership
             </div>
         </div>
         <div class="row simple_row" style="width:auto;height:600px;" align="center">
-            <img src="/img/Avery.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <img src="/img/Eesha.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
             <div class="d-flex flex-column">
                 <p>Eesha Gogineni - Apprentice Publicity Officer</p>
                 <p>
@@ -134,7 +134,7 @@ permalink: /about/leadership
             </div>
         </div>
         <div class="row simple_row" style="width:auto;height:600px;" align="center">
-            <img src="/img/Eesha.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <img src="/img/Avery.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
             <div class="d-flex flex-column">
             <p>Avery Ye - Apprentice Vice President</p>
                 <p>
