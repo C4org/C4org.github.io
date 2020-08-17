@@ -81,3 +81,66 @@ permalink: /about/leadership
         </div>
     </div>
 </div>
+
+## Apprentices
+
+<div class="row simple_row">
+    <div class="col-md-6">
+        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+            <img src="/img/Seneca.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <div class="d-flex flex-column">
+                <p>Seneca Feys - Apprentice President</p>
+                <p>
+                    Three years ago, my aunt was diagnosed with lymphoma and advanced bladder cancer. After seeing what she had to go through and continues to go through I wanted to be able to help other like her in any way that I can. The C4 Club has given me the opportunity to give back and help others in so many different ways.
+                </p>
+            </div>
+        </div>
+        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+            <img src="/img/Avery.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <div class="d-flex flex-column">
+                <p>Eesha Gogineni - Apprentice Publicity Officer</p>
+                <p>
+                   Hi, my name is Eesha and I'm the apprentice publicity officer for the C4 club. I joined because even though I don't have direct control over childhood cancer, I believe it is my moral duty to lend people a helping hand and do what I can to support cancer patients and organizations. I want to help people educate themselves on this unique and often undiscussed issue.  
+                </p>
+            </div>
+        </div>
+        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+            <img src="/img/Saaya.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <div class="d-flex flex-column">
+                <p>Saaya Nair- Apprentice Secretary</p>
+                <p>
+                    A few years ago, one of my closest firends was diagnosed with leukemia. It was very difficult for me to see what she was going through and I decided to make a change. I joined C4 because it was an opportunity to get involved and bring awareness to childhood cancer.  
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+            <img src="/img/Tessa.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <div class="d-flex flex-column">
+                <p>Tessa Brizhik - Apprentice Treasurer</p>
+                <p>
+                    My name is Tessa Brizhik and I am a junior in the humanities house. I have been a member of C4 for a year now and I am excited to continue my involvement in the club as treasurer apprentice and later as treasurer for my next two years in high school. I joined the club last year to devote my time and ideas to this amazing cause of fighting againt cancer and I am exicted for the future fundriasers and events my fellow officers, club members and I will run. The current pandemic will only inspire us to be more inovative.  
+                </p>
+            </div>
+        </div>
+        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+            <img src="/img/Peyton.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <div class="d-flex flex-column">
+                <p>Peyton Walton - Apprentice Outreach Officer</p>
+                <p>
+                    I joined C4 for an opportunity to make a different in the lives of cancer patients. Being a part of C4 shows you how much passion people have for helping each other.
+                </p>
+            </div>
+        </div>
+        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+            <img src="/img/Eesha.jpeg" style="height:200px;width:auto;display: block;margin:auto;">
+            <div class="d-flex flex-column">
+            <p>Avery Ye - Apprentice Vice President</p>
+                <p>
+                    I joined C4 because of my family's history of cancer and a close friendship I have with someone who had cancer a couple of years ago.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
