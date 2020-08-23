@@ -6,7 +6,7 @@ permalink: /fundraising/
 
 ## History
 
-As a group, the C4 club is dedicated to hosting fundraisers in the local community of Poolesville with the majority of such fundraisers occurring on the premises of Poolesville High School. Throughout the years of the club’s establishment, we have raised over $900 through a variety of events.  
+As a group, the C4 club is dedicated to hosting fundraisers in thir local communities with the majority of such fundraisers occurring on the premises of their school. Throughout the years of the club’s establishment, we have raised over $900 through a variety of events.  
 
 ## General Fundraisers
 
@@ -20,7 +20,7 @@ For future fundraisers, we have plans to continue implementing our old methods o
 
 ## Spring Fair
 
-The Combating Childhood Cancer Club decided to have a Spring Fair on April 18, 2020 in order to raise money for childhood cancer research at the National Foundation for Cancer Research. The fair was to be at Whalen Commons, a public field in the town of Poolesville. This fair would have been open to the public, with a large number of our attendees to be of Poolesville. Due to the COVID-19, we first postponed the fair to October 10th, 2020, and then decided to postpone the fair indefinitely. However, before postponing, we had planned the fair to a great extent. Our plan for the fair consisted of:  
+The Poolesville Chapter of the Combating Childhood Cancer Club decided to have a Spring Fair on April 18, 2020 in order to raise money for childhood cancer research at the National Foundation for Cancer Research. The fair was to be at Whalen Commons, a public field in the town of Poolesville. This fair would have been open to the public, with a large number of our attendees to be of Poolesville. Due to the COVID-19, we first postponed the fair to October 10th, 2020, and then decided to postpone the fair indefinitely. However, before postponing, we had planned the fair to a great extent. Our plan for the fair consisted of:  
 
 - Pie in the Face
 - Balloon Darts

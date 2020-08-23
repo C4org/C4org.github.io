@@ -3,9 +3,9 @@ layout: genericPage
 title: About Our Board of Directors
 permalink: /about/board
 ---
-<div class="row simple_row">
+<div class="row simple-row">
     <div class="col-md-6">
-        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+        <div class="row simple-row" style="width:auto;height:600px;" align="center">
             <img src="/img/Roma.png" style="height:200px;width:auto;display: block;margin:auto;">
             <div class="d-flex flex-column">
                 <p>Roma Dhingra - Chairwoman and President</p>
@@ -14,7 +14,7 @@ permalink: /about/board
                 </p>
             </div>
         </div>
-        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+        <div class="row simple-row" style="width:auto;height:600px;" align="center">
             <img src="/img/Liz.jpg" style="height:200px;width:auto;display: block;margin:auto;">
             <div class="d-flex flex-column">
                 <p>Liz Attumalil - Vice Chairwoman and Vice President</p>
@@ -25,7 +25,7 @@ permalink: /about/board
         </div>
     </div>
     <div class="col-md-6">
-        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+        <div class="row simple-row" style="width:auto;height:600px;" align="center">
             <img src="/img/Temi.jpg" style="height:200px;width:auto;display: block;margin:auto;">
             <div class="d-flex flex-column">
                 <p>Temitope Olarinde - Secretary</p>
@@ -34,7 +34,7 @@ permalink: /about/board
                 </p>
             </div>
         </div>
-        <div class="row simple_row" style="width:auto;height:600px;" align="center">
+        <div class="row simple-row" style="width:auto;height:600px;" align="center">
             <img src="/img/Kandasamy.jpg" style="height:200px;width:auto;display: block;margin:auto;">
             <div class="d-flex flex-column">
                 <p>Kandasamy Chokkalingam - Treasurer and Head of Website </p>

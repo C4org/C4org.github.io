@@ -81,8 +81,8 @@ nav {
     margin: 0;
 }
 
-.simple_row {
-    height: auto !important;
+.simple-row {
+    height: min-content !important;
 }
 
 .no-padding {
@@ -182,12 +182,17 @@ a.nav-link:hover,a.nav-link:focus{
 }
 .imagediv{
     text-align: center;
+    align-content: center;
 }
 
 .image{
     height: 65vh;
     width: auto;
     display: block;
+}
+
+#genericPageTitle {
+    text-align: center;
 }
 
 @media screen and (max-width: 767px) {
@@ -197,4 +202,25 @@ a.nav-link:hover,a.nav-link:focus{
     .image {
         display: none;
     }
+    #genericPageTitle {
+        width: 100vw;
+    }
+
+}
+
+.sectionheader{
+    font-family: MontserratBold;
+    font-size: calc(10px + 1vw + 1vh);
+    color:#D9B559; 
+}
+
+.sectionheaderLarge{
+    font-family: MontserratBold;
+    font-size: calc(10px + 1.5vw + 1.5vh);
+    color:#D9B559; 
+}
+
+.subtext {
+    color: #858585;
+    font-size: 18px;
 }

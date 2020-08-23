@@ -52,12 +52,6 @@
 }
 
 
-.sectionheader{
-    font-family: MontserratBold;
-    font-size: calc(10px + 1vw + 1vh);
-    color:#D9B559; 
-}
-
 #calendar {
     border-right: 2px solid #12447D;
     padding-left: 5vh;
@@ -75,3 +69,16 @@
         border-left-width: 0px;
     }
 }
+
+.location-link {
+    color: #d9b559 !important;
+    text-decoration: none !important;
+
+}
+
+.location-link:hover,.location-link:focus {
+    color: #6F6F6F !important;
+}
+
+
+

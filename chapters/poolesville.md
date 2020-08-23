@@ -1,8 +1,22 @@
 ---
 layout: genericPage
-title: About Our Leadership
-permalink: /about/leadership
+title: The Poolesville HS Chapter
+permalink: /chapters/poolesville/
 ---
+#### Table of Contents
+
+- [About](#about)
+- [Leadership](#leadership)
+  - [Apprentices](#apprentices)
+- [Fundraisers and Events](#fundraisers-and-events)
+- [How to Join](#how-to-join)
+
+## About
+
+Poolesville C4 was founded in September 2018 by Roma Dhingra at Poolesville High School in Maryland. This club has several school and cars activity fundraisers, including a Spring Fair which got postponed last-minute due to COVID-19. Poolesville C4 is the original C4 chapter.
+
+## Leadership
+
 <div class="row simple-row">
     <div class="col-md-6">
         <div class="row simple-row" style="width:auto;height:600px;" align="center">
@@ -82,7 +96,7 @@ permalink: /about/leadership
     </div>
 </div>
 
-## Apprentices
+### Apprentices
 
 <div class="row simple-row">
     <div class="col-md-6">
@@ -144,3 +158,11 @@ permalink: /about/leadership
         </div>
     </div>
 </div>
+
+## Fundraisers and Events
+
+The Poolesville HS Chapter has been planning a Spring Fair to be conducted in Poolesville. Due the current situation, our plans have been delayed. We're currently working on some new online fundraising methods so be sure to check back soon to see what we do!
+
+## How to Join
+
+Send us an email at <poolesvillec4@gmail.com> if you're interested in joining!

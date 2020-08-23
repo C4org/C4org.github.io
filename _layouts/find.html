@@ -1,0 +1,111 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/img/favicon.ico">
+
+    <title>C4</title>
+
+    <link rel="stylesheet" href="https://fontlibrary.org/face/montserrat" type="text/css" />
+    <link href="css/cover.css" rel="stylesheet" />
+
+    <!DOCTYPE html>
+    <!-- Custom styles for this template -->
+    {% include topImports.html %}
+
+</head>
+
+<body>
+    <div class="site-wrapper no-padding" id="site-wrapper">
+        {% include navbar.html fixed-top="fixed-top" %}
+        <div class="container-fluid no-padding justify-content-center">
+            <div class="row justify-content-center mb-2" style="height: max-content;">
+                <div class="col mt-4 justify-content-center">
+                    <div class="row simple-row justify-content-center">
+                        <div class="col-md-8 justify-content-center" data-aos='fade-down' data-aos-duration='600'
+                            data-aos-easing='ease-in-out' data-aos-mirror='true' data-aos-once='true'>
+                            <p class="sectionHeaderLarge" style="text-align: center;">
+                                Find a Chapter
+                            </p>
+                            <p style="text-align: center;">
+                                Enter a location near you to find the closest C4 Chapter. Clicking on a location will
+                                lead
+                                you
+                                to that Chapter's page where you can learn about what they've done, how to join, and
+                                other
+                                things.
+                            </p>
+                            <p class="subtext" style="text-align: center;">
+                                The website may ask for your location in order to provide more accurate suggestions.
+                            </p>
+                            <div class="my-2" style="font-family: Zilla Slab;">
+                                <input type="search" id="search-input" placeholder="Start Searching..."
+                                    style="font-family: Zilla Slab;position: relative;z-index: 1000;" />
+                            </div>
+                            <p style="text-align: center;"> Locations: </p>
+                            <div class="col " id="outputDiv"
+                                style="font-family:Zilla Slab;font-size: 24px;height: 200px;">
+                                <p class="subtext" style="text-align: center;">
+                                    Search something to see locations
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="simple-row row justify-content-center ">
+                        <div class="col-md-8 justify-content-center" data-aos='fade-up' data-aos-duration='600'
+                            data-aos-easing='ease-in-out' data-aos-mirror='true' data-aos-once='true'>
+                            <p class="sectionHeaderLarge " style="text-align: center;height: min-content;">
+                                Start a Chapter
+                            </p>
+                            <p style="text-align: center;">
+                                If you'd like to be a part of C4, but can't find a Chapter near you, you can start one!
+                            </p>
+                            <div class="row justify-content-center" style="height: min-content;">
+                                <div class="col-md-3">
+                                    <p>All you need is:</p>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul style="font-family: Zilla Slab;">
+                                        <li>A teacher sponsor to preside over your club</li>
+                                        <li>A team of Officers: President, Vice President, Secretary, Treasurer,
+                                            Publicity
+                                            Officer, and Outreach Officer (Optional)</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <p style="text-align: center;">
+                                Find the full set of guidelines <a href="/img/Guidelines Packet.pdf">here</a>, and if you
+                                would like to register a Chapter, checkout the form <a
+                                    href="https://forms.gle/rYLyvncGAcBmX8AEA">here</a>!
+                            </p>
+                            <div class="form" style="text-align: center;">
+                                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddsyoeZe1omGtsvZX8RYODUrGuQ6IBX7riUrVjuQgEghXWDw/viewform?embedded=true" width="560" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="footer">
+                <div class="container pt-2" style="text-align: center;  ">
+                    <span class="text-muted">{% include footerContents.html %}</span>
+                </div>
+            </footer>
+        </div>
+
+
+        {% include bottomImports.html %}
+        <script src="/js/placesearch.js"></script>
+        <link type="text/css" rel="stylesheet" href="/css/placesearch.css" />
+        <script src="/js/mapquest.js"></script>
+        <link type="text/css" rel="stylesheet" href="/css/mapquest.css" />
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            AOS.init();
+            setTimeout(AOS.refresh, 12000)
+        </script>
+        <script src="/js/find.js"></script>
+
+    </div>
+
+</body>
