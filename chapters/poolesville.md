@@ -10,6 +10,7 @@ permalink: /chapters/poolesville/
   - [Apprentices](#apprentices)
 - [Fundraisers and Events](#fundraisers-and-events)
 - [How to Join](#how-to-join)
+- [Contact](#contact)
 
 ## About
 
@@ -166,3 +167,11 @@ The Poolesville HS Chapter has been planning a Spring Fair to be conducted in Po
 ## How to Join
 
 Send us an email at <poolesvillec4@gmail.com> if you're interested in joining!
+
+## Contact
+
+Contact us in any of the following ways:
+
+- [Instagram](https://www.instagram.com/poolesvillec4/)
+- [Facebook]("https://www.facebook.com/Poolesville-Combating-Childhood-Cancer-Club-109611417299285/")
+- <poolesvillec4@gmail.com>

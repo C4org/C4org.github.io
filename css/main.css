@@ -104,7 +104,6 @@ hr {
     color: #D9B559;
 }
 
-
 /* Add a hover effect if you want */
 
 .fa:hover {
@@ -153,7 +152,7 @@ a.dropdown-item:hover {
     color: #12447D !important;
 }
 
-a.nav-link:hover,a.nav-link:focus{
+a.nav-link:hover, a.nav-link:focus {
     color: #858585 !important;
 }
 
@@ -164,28 +163,27 @@ a.nav-link:hover,a.nav-link:focus{
     height: fit-content;
     background-color: #12447D;
     flex-shrink: 0;
-
 }
 
 .text-muted {
     color: #D9B559 !important;
 }
 
-.wrapper{
+.wrapper {
     flex: 1 0 auto;
-    
 }
 
-.form{
+.form {
     display: block;
     text-align: center;
 }
-.imagediv{
+
+.imagediv {
     text-align: center;
     align-content: center;
 }
 
-.image{
+.image {
     height: 65vh;
     width: auto;
     display: block;
@@ -196,7 +194,7 @@ a.nav-link:hover,a.nav-link:focus{
 }
 
 @media screen and (max-width: 767px) {
-    .form{
+    .form {
         display: none;
     }
     .image {
@@ -205,19 +203,18 @@ a.nav-link:hover,a.nav-link:focus{
     #genericPageTitle {
         width: 100vw;
     }
-
 }
 
-.sectionheader{
+.sectionheader {
     font-family: MontserratBold;
     font-size: calc(10px + 1vw + 1vh);
-    color:#D9B559; 
+    color: #D9B559;
 }
 
-.sectionheaderLarge{
+.sectionheaderLarge {
     font-family: MontserratBold;
     font-size: calc(10px + 1.5vw + 1.5vh);
-    color:#D9B559; 
+    color: #D9B559;
 }
 
 .subtext {
