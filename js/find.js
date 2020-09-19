@@ -1,6 +1,6 @@
 window.onload = function () {
-  let clubs = {'Poolesville HS Chapter':'39.14907,-77.41568'}
-  let links = {'Poolesville HS Chapter':'/poolesville'}
+  let clubs = {'Poolesville HS Chapter':'39.14907,-77.41568','Damascus HS Chapter':'39.28166,-77.21109'}
+  let links = {'Poolesville HS Chapter':'/poolesville', 'Damascus HS Chapter':'/damascus'}
   let ps = placeSearch({
     key: 'e9mLNW2xSq0eXliSPLmNpGNrM8Ily3GB',
     container: document.querySelector('#search-input'),
