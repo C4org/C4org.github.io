@@ -80,5 +80,22 @@
     color: #6F6F6F !important;
 }
 
+#counterCard {
+    display: flex;
+}
 
+#backupCounterCard {
+    display: none;
+    height: 45vh;
+    background-color: #d9b559;
+}
 
+@media screen and (max-width: 767px) {
+    #counterCard {
+        display: none;
+    }
+
+    #backupCounterCard {
+        display: flex;
+    }
+}
