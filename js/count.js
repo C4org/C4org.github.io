@@ -52,12 +52,12 @@ function update() {
         setTimeout(function () {
             demo3.start();
         }, time_start);
-        let demo5 = new CountUp('countUp5', 5, { duration: 3 });
+        let demo5 = new CountUp('countUp5',6, { duration: 3 });
         setTimeout(function () {
             demo5.start();
         }, time_start_2);
 
-        let demo6 = new CountUp('countUp6', 117, { duration: 3 });
+        let demo6 = new CountUp('countUp6', 167, { duration: 3 });
         setTimeout(function () {
             demo6.start();
         }, time_start_2);
