@@ -5,12 +5,12 @@ let time_start_2 = 1500;
 let past_width = null;
 let trigger_width = 767;
 
-let demo = new CountUp('countUp1', 6, { duration: 3 });
+let demo = new CountUp('countUp1', 7, { duration: 3 });
 setTimeout(function () {
     demo.start();
 }, time_start);
 
-let demo1 = new CountUp('countUp2', 167, { duration: 3 });
+let demo1 = new CountUp('countUp2', 195, { duration: 3 });
 setTimeout(function () {
     demo1.start();
 }, time_start);
@@ -31,12 +31,12 @@ update();
 
 function update() {
     if ((document.documentElement.clientWidth > trigger_width > past_width) || (document.documentElement.clientWidth < trigger_width < past_width) || past_width == null) {
-        let demo = new CountUp('countUp1', 6, { duration: 3 });
+        let demo = new CountUp('countUp1', 7, { duration: 3 });
         setTimeout(function () {
             demo.start();
         }, time_start);
 
-        let demo1 = new CountUp('countUp2', 167, { duration: 3 });
+        let demo1 = new CountUp('countUp2', 195, { duration: 3 });
         setTimeout(function () {
             demo1.start();
         }, time_start);
