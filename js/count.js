@@ -20,7 +20,7 @@ setTimeout(function () {
     demo2.start();
 }, time_start);
 
-let demo3 = new CountUp('countUp4', 960, {
+let demo3 = new CountUp('countUp4', 2112, {
     prefix: '$',
 });
 setTimeout(function () {
@@ -46,7 +46,7 @@ function update() {
             demo2.start();
         }, time_start);
 
-        let demo3 = new CountUp('countUp4', 960, {
+        let demo3 = new CountUp('countUp4', 2112, {
             prefix: '$',
         });
         setTimeout(function () {
@@ -67,7 +67,7 @@ function update() {
             demo7.start();
         }, time_start_2);
 
-        let demo8 = new CountUp('countUp8', 960, {
+        let demo8 = new CountUp('countUp8', 2112, {
             prefix: '$',
         });
         setTimeout(function () {
