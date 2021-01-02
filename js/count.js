@@ -7,7 +7,7 @@ let trigger_width = 767;
 const count1 = 7;
 const count2 = 195;
 const count3 = 2;
-const count4 = 2112;
+const count4 = 960+1344;
 
 let demo = new CountUp('countUp1', count1, { duration: 3 });
 setTimeout(function () {
