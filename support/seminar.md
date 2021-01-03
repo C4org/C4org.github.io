@@ -10,12 +10,14 @@ You can find the schedule below.
 
 ## Attending
 
-The Golden Seminar is fast approaching on January 16th, 2021! If you would like to attend, please fill out the form [here]. 
+The Golden Seminar is fast approaching on January 16th, 2021! If you would like to attend, please fill out the form [here](https://docs.google.com/forms/d/e/1FAIpQLSc6LMaRc6mkGNq-mbd1aG_Sai045WoxmjD6EgQ03yuNEm1C8w/viewform). 
 
 <div class="form">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegbM2Rloeti-EfESj9eTm_UnliwQnEMmxfInhigoF19PAc8w/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6LMaRc6mkGNq-mbd1aG_Sai045WoxmjD6EgQ03yuNEm1C8w/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
+<br>
+<br>
 
 | Time Slot                 | Presentation                                                                                                                             |
 |:-------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
@@ -30,3 +32,6 @@ The Golden Seminar is fast approaching on January 16th, 2021! If you would like 
 | 3:25-3:45 PM EST Slot     | Treatments and Technology Used to Treat Childhood Leukemia                                                                               |
 | 3:50-4:10 PM EST Slot     | Paper Analysis on Investigating “Packaged” hydrogel CAR T Cells for Retinoblastoma Therapy                                               |
 | 4:15-4:35 PM EST Slot     | Post-Traumatic Stress Disorder in Childhood Cancer                                                                                       |
+
+<br>
+<br>
