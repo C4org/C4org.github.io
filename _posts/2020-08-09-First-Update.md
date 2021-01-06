@@ -1,5 +1,6 @@
 ---
-layout: genericPage
+layout: blog_post
+author: Kandasamy Chokkalingam
 title:  Informational Posts
 date:   2020-08-09 17:00:00 -0400
 ---

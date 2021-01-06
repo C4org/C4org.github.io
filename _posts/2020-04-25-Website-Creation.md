@@ -1,5 +1,6 @@
 ---
-layout: genericPage
+layout: blog_post
+author: Kandasamy Chokkalingam
 title:  Website Creation!
 date:   2020-08-09 14:00:00 -0400
 categories: jekyll update
