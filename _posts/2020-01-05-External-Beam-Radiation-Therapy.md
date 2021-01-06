@@ -2,7 +2,7 @@
 layout: blog_post
 author: Judith Bosco
 title:  External Beam Radiation Therapy
-date:   2020-08-09 14:00:00 -0400
+date:   2021-01-06 12:00:00 -0400
 ---
 
 ## Description
